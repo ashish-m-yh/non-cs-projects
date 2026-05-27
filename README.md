@@ -36,6 +36,9 @@ This can positively impact critical mineral absorption for benefit of plants.
 
 ## Bamboo Drip Irrigation System
 
+An eco-friendly drip irrigation system to provide water to crops from a water source.
+
+https://www.youtube.com/shorts/H0UsWTErNA8
 
 ## Rope Drip Irrigation System
 
@@ -46,4 +49,4 @@ https://www.youtube.com/watch?v=of24ht44-44
 
 ## Ethanol + Vegetable Oil Cooking/Heating
 
-For energy self-reliance for cooking and heating, it is desirable to explore alternatives to cooking gas. One option among these is the combination of ethanol and vegetable oil (mustard oil or sesame seed oil). Ethanol is smokeless and inflammable, vegetable oils produce smoke and burn less easily. There's a difference in smoke-point of various oils. Moreover, it is important to evaluate different kinds of wicks
+For energy self-reliance for cooking and heating, it is desirable to explore alternatives to cooking gas. One option among these is the combination of ethanol and vegetable oil (mustard oil or sesame seed oil). Ethanol is smokeless and inflammable, vegetable oils produce smoke and burn less easily. There's a difference in smoke-point of various oils. Moreover, it is important to evaluate different kinds of wicks for smokeless and a fire which lasts long.
