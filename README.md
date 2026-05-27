@@ -2,6 +2,12 @@
 
 This is a space to enumerate hobby science projects which are outside Computer Science / IT and a central place to maintain documentation of them. As each project is explored, each will have a page dedicated to it.
 
+## Purpose of this Page
+This page is a central scratchpad for project ideas, so that ideas do not get lost. Moreover,this is also a space to communicate to other like-minded folks on the Internet or among my friends who may like to contribute to these projects, since I may lack certain skills to build all of this. Moreover, this is also a way to get fresh insights into my thought process, which can result in better outcomes.
+
+## How to Collaborate
+Please reach out at ashish.mukherjee@gmail.com
+
 ## Heron's Fountain
 This is a fountain which works on hydraulic pressure and therefore, a mechnical device which runs a fountain without electricity.
 
@@ -14,6 +20,9 @@ https://www.youtube.com/watch?v=3UBaZwshzcU
 Another DIY home battery for low wattage lighting
 
 https://www.youtube.com/watch?v=OcGWbt1mcrc
+
+## Atmospheric Electricity
+This is a tricky one - Tesla Coil, Electrostatic motors, Lightning rods etc. are various approaches seen in various demo videos used to generate electricity. This is very much a research-oriented project which needs involvement of people who are electrical engineers (which I am not).
 
 ## Ayurvedic Bhasma Mix as Soil Additive
 Using the ancient science of Ayurveda to enrich soil to boost plant growth 
