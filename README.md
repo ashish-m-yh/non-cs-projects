@@ -31,3 +31,12 @@ Water is the universal solvent and thus, a carrier of various energies in the fo
 a) Mineralized water
 b) Copper addition to water
 c) Cow-dung ash added to water to provide Calcium and other trace elements
+
+## Bamboo Drip Irrigation System
+
+## Rope Drip Irrigation System
+
+A simple drip irrigation system based on the concept of capillary action. Capillary action is the process of a liquid flowing in narrow spaces without the assistance of external forces like gravity, primarily due to adhesive and cohesive forces between the liquid and surrounding surfaces. This phenomenon is essential in various natural and practical applications, such as how plants absorb water from the soil.
+
+https://www.youtube.com/shorts/2Mcp6Ta_1jI
+https://www.youtube.com/watch?v=of24ht44-44
