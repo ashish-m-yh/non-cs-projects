@@ -22,3 +22,13 @@ Using the ancient science of Ayurveda to enrich soil to boost plant growth
 https://www.youtube.com/watch?v=mAxvfDbXKZM
 
 https://www.youtube.com/watch?v=_F9yXsst13k
+
+## Electroculture
+Electroculture is a broad approach of supplying electricity to plants to promote their growth. There are multiple techniques within this. Details will be covered separately.
+
+## Energized Water for Agriculture
+Water is the universal solvent and thus, a carrier of various energies in the form of ions or elements mixed in it.The addition of some substance to it can make the water more potent for plant growth. The following additives can be experimented with -
+
+a) Mineralized water
+b) Copper addition to water
+c) Cow-dung ash added to water to provide Calcium and other trace elements
