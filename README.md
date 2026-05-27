@@ -1,5 +1,4 @@
-# non-cs-projects
-Non-IT tech projects
+# Non-IT tech projects
 
 This is a space to enumerate hobby science projects which are outside Computer Science / IT and a central place to maintain documentation of them. As each project is explored, each will have a page dedicated to it.
 
