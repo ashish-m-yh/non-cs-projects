@@ -59,3 +59,7 @@ https://www.youtube.com/watch?v=of24ht44-44
 ## Ethanol + Vegetable Oil Cooking/Heating
 
 For energy self-reliance for cooking and heating, it is desirable to explore alternatives to cooking gas. One option among these is the combination of ethanol and vegetable oil (mustard oil or sesame seed oil). Ethanol is smokeless and inflammable, vegetable oils produce smoke and burn less easily. There's a difference in smoke-point of various oils. Moreover, it is important to evaluate different kinds of wicks for smokeless and a fire which lasts long.
+
+## Ethanol Production for Fuel
+
+Ethanol is inflammable and can be a fuel for cooking and heating. For energy independence, one might want to produce ethanol from sugar for this purpose.
